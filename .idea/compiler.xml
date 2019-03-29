@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="20190113" />
+        <module name="20190218" />
+        <module name="ssm" />
+        <module name="SSM_Redis_Shared_Session" />
+        <module name="webProject" />
+        <module name="work" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="20190219" target="1.5" />
+      <module name="20190219 (1)" target="1.5" />
+      <module name="dubbo-api" target="1.7" />
+      <module name="dubbo-api (1)" target="1.7" />
+      <module name="dubbo-service" target="1.7" />
+      <module name="dubbo-service (1)" target="1.7" />
+      <module name="dubbo-webapp" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

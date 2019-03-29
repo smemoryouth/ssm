@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FUSUsageTrigger">
+    <session id="-1483225149">
+      <usages-collector id="statistics.spring.core.usages.trigger">
+        <counts>
+          <entry key="fixes.SpringFacetInspection.AddFacetFix" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/Desktop/20190219/dubbo-webapp" />
+    <file type="web" url="file://$USER_HOME$/Desktop/SSM_Redis_Shared_Session" />
+    <file type="web" url="file://P:/20190113" />
+    <file type="web" url="file://P:/20190219/dubbo-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://P:/SSM_Redis_Shared_Session" />
+    <file type="web" url="file://P:/webProject" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$USER_HOME$/Desktop/20190218/pom.xml" />
+        <option value="$USER_HOME$/Desktop/20190219/pom.xml" />
+        <option value="$USER_HOME$/Desktop/SSM_Redis_Shared_Session/pom.xml" />
+        <option value="P:/webProject/pom.xml" />
+        <option value="P:/springTest/pom.xml" />
+        <option value="P:/2018121602/pom.xml" />
+        <option value="P:/SSM_Redis_Shared_Session/pom.xml" />
+        <option value="P:/20190218/pom.xml" />
+        <option value="P:/20190219/pom.xml" />
+        <option value="P:/20190113/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="P:/20190219/dubbo-api/pom.xml" />
+        <option value="P:/20190219/dubbo-service/pom.xml" />
+        <option value="P:/20190219/dubbo-webapp/pom.xml" />
+        <option value="P:/20190219/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="PreferredVcsStorage">
+    <preferredVcsName>ApexVCS</preferredVcsName>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
